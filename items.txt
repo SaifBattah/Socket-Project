@@ -1,0 +1,10 @@
+Bad slave;250
+Good slave;500
+Xiaomi mi 10;800
+Xiaomi redmi note 11;900
+Xiaomi redmi 10;750
+Xiaomi redmi note 9;350
+Messi;1000000000
+Football;5
+Chevrolet Aveo;1000
+Chevrolet Silverado;50000
